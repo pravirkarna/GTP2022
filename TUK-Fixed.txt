@@ -1,0 +1,70 @@
+ACM002      - Passing locally 
+ACM003      - Passing Locally
+
+CANDC003    - Passing Locally  (Failed at server because Inbox message appeared after 5 minutes)
+
+CAPNC006    - Passing Locally  (Failed at server because because of product count mismatch seems like data issue was there which is resolved)
+CASNDC003   - Fixed Failed because App005 user does not had App010 folder access 
+
+AC0013      - Failed because @ignore tag was added recently 
+
+CASNDC001  -  Instead of 'Enterprise' blank '' was passed - - Fixed passing locally
+CASNDC003  -  Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+
+CAPDC003   -  Passing Locally  (Failed at server because Inbox message might have appeared after 5 minutes)
+CAPDC0002  -  Passing Locally  (Failed at server because Inbox message might have appeared after 5 minutes)
+
+REP024 -  Fixed Passing Locally
+REP028 -  Fixed Passing Locally (Failed at server because Ignore assertion were not put)
+REP029 -  Fixed Passing Locally (Failed at server because Ignore assertion were not put)
+REP030 -  Fixed Passing Locally (Failed at server because Ignore assertion were not put)
+REP033 -  Fixed Passing Locally (Failed at server because Ignore assertion were not put)
+
+COM003 - Global Serach is returning in more than 30 sec hence its failing (Fix needed)
+
+CAT005 - Fixed (Failed at server because now we are using APP010 user and paths were hardcoded as APP001 )  
+CAT006 - Fixed (Failed at server because now we are using APP010 user and paths were hardcoded as APP001 )
+CAT001 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT002 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT004 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT007 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT008 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT010 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT011 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT012 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT014 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CAT014 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+
+
+CCG003 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CCG004 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CCG005 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI001- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI006- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI007- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI008- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI009- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI010- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI011- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CGEI012- Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CSG001 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+CSG003 - Passing Locally (Failed at server because Inbox message might have appeared after 5 minutes)
+
+SOR012 - Fixed and Passing Locally 
+SOR015 - Fixed and Passing Locally 
+SOR032 - Fixed and Passing Locally 
+
+HLP001 - Passing Locally
+
+CCG006 - Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+CSG005 - Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+CSG006 - Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+CSG009 - Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+CSG010 - Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+CST002-  Passing Locally Failed because App005 user does not had App010 folder access Fixed with CASNDC003 
+
+CGP008 - Fixed (Failed at server because now we are using APP010 user and paths were hardcoded as APP001 ) 
+CGP018 - Passing Locally 
+CGP021 - Passing Locally 
+CGP023 - BrokerClient2 not configured - Need to check if this test case is applicable only to MET 
+
